@@ -1698,123 +1698,123 @@
                  "y":1024.49646162221
                 }, 
                 {
-                 "height":97.3959,
-                 "id":945,
-                 "name":"star-1",
+                 "height":103.14143184576,
+                 "id":955,
+                 "name":"star-5.1",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1fGOdde816L3L8k0GhGk1oJ9oF86jxre_\/preview"
+                         "value":"https:\/\/virtualpiano.net\/virtual-music-education\/"
                         }],
-                 "rotation":90,
+                 "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96.7051,
-                 "x":2384.76796412241,
-                 "y":1266.57803332153
+                 "width":106.512066873399,
+                 "x":2311.53034314059,
+                 "y":2122.15181340165
                 }, 
                 {
-                 "height":97.3959,
-                 "id":946,
-                 "name":"star-2",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1KDXHTuFU9ywtsoZvF8MvqxDXAWuev0xF\/preview"
-                        }],
-                 "rotation":90,
-                 "type":"area",
-                 "visible":true,
-                 "width":96.7051,
-                 "x":2217.1053885258,
-                 "y":1491.2106692426
-                }, 
-                {
-                 "height":97.3959,
-                 "id":947,
-                 "name":"star-3",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1UXAFz9vVC_uDl47mvamYSBtUain1BXUt\/preview"
-                        }],
-                 "rotation":90,
-                 "type":"area",
-                 "visible":true,
-                 "width":96.7051,
-                 "x":2345.13642585908,
-                 "y":1716.41856685399
-                }, 
-                {
-                 "height":97.3959,
-                 "id":948,
-                 "name":"star-4",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1MatDknEGU-zOMMxsrI1II0rfdf5JUX1A\/preview"
-                        }],
-                 "rotation":90,
-                 "type":"area",
-                 "visible":true,
-                 "width":96.7051,
-                 "x":2185.89502265153,
-                 "y":1904.75062056464
-                }, 
-                {
-                 "height":97.3959,
-                 "id":949,
-                 "name":"star-5",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/15KhcNVEtGz-fmxKmFXpRXCRAOSAxMkuf\/preview"
-                        }],
-                 "rotation":90,
-                 "type":"area",
-                 "visible":true,
-                 "width":96.7051,
-                 "x":2311.82961564716,
-                 "y":2122.95622413748
-                }, 
-                {
-                 "height":97.3959,
-                 "id":950,
-                 "name":"star-6",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1dyi_yPFSdZaigbDI4Bp3XkparKvnO98E\/preview"
-                        }],
-                 "rotation":90,
-                 "type":"area",
-                 "visible":true,
-                 "width":96.7051,
-                 "x":2161.29085628844,
-                 "y":2289.28465997059
-                }, 
-                {
-                 "height":97.3959,
-                 "id":951,
-                 "name":"star-7",
+                 "height":104.712041884817,
+                 "id":957,
+                 "name":"star-7.1",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/drive.google.com\/file\/d\/1EyIrn5QJZIG-CB9Be_AGKRdYwwIW5AHe\/preview"
                         }],
-                 "rotation":90,
+                 "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96.7051,
-                 "x":1964.33290413852,
-                 "y":2098.87780582924
+                 "width":102.986019216386,
+                 "x":1965.36447845348,
+                 "y":2093.09015591738
+                }, 
+                {
+                 "height":104.712041884817,
+                 "id":959,
+                 "name":"star-6.1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1dyi_yPFSdZaigbDI4Bp3XkparKvnO98E\/preview"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":101.835337437432,
+                 "x":2158.67901731776,
+                 "y":2284.67867211323
+                }, 
+                {
+                 "height":109.037146553317,
+                 "id":960,
+                 "name":"star-4.1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1MatDknEGU-zOMMxsrI1II0rfdf5JUX1A\/preview"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":108.421117476745,
+                 "x":2186.90322183207,
+                 "y":1897.36955584304
+                }, 
+                {
+                 "height":104.108913940738,
+                 "id":961,
+                 "name":"star-3.1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1UXAFz9vVC_uDl47mvamYSBtUain1BXUt\/preview"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":107.1890593236,
+                 "x":2348.30283989404,
+                 "y":1709.48068748845
+                }, 
+                {
+                 "height":104.094857300428,
+                 "id":962,
+                 "name":"star-2.1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1KDXHTuFU9ywtsoZvF8MvqxDXAWuev0xF\/preview"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":106.162967048118,
+                 "x":2219.08175927203,
+                 "y":1484.21342892596
+                }, 
+                {
+                 "height":102.716117468634,
+                 "id":963,
+                 "name":"star-1.2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1fGOdde816L3L8k0GhGk1oJ9oF86jxre_\/preview"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.784227216324,
+                 "x":2380.39431959189,
+                 "y":1260.85757617538
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2711,7 +2711,7 @@
          "y":0
         }],
  "nextlayerid":33,
- "nextobjectid":952,
+ "nextobjectid":964,
  "orientation":"orthogonal",
  "properties":[
         {
